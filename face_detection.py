@@ -1,5 +1,5 @@
 import cv2
-from keras.models import model_from_json
+from keras._tf_keras.keras.models import model_from_json
 import numpy as np
 
 # Load the pre-trained model architecture from JSON file
