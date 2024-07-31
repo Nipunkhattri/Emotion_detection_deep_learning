@@ -16,6 +16,8 @@ This project is an Emotion Detection system that leverages deep learning models 
 - **Image Processing**: OpenCV
 - **Programming Language**: Python
 
+![Happy](/assests/happy.jpeg)
+
 ## Installation
 
 1. **Clone the Repository**
